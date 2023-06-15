@@ -1,0 +1,22 @@
+The brodvoice attack was a sql injection attack discovered by a security consultant Bob Diachenko in collaboration with Comparitech it was made possible do to a data base left 
+open with no authentication required the human element was strong here. A good way to avoid this would have been to follow best practices and have a person read the code before it was allowed to go live in the server.   
+It is still unclear at this time wither the information leak was actually used by anyone. The company probably needs to look at implementation of a sop for database work including a 
+base encryption and authentication string the put more specialized practices in place as work runs apace. The information was primarily medical in nature but did include things like phone 
+numbers it would be fairly easy to use those as a phishing bait . There was no real attack but it does demonstrate why we as coders need to look before we commit and check others commits before we 
+allow the code to go live . Attacks like this are really bad for the company's we work fore and definitely demonstrates why we need to police our code hopefully none of the leaked data was used for 
+immoral means but I personally  don’t think we got that lucky. 
+It would also have created a need to change passwords. Voip calls are thought to be more secure but obviously that is not true it is the database and the code that make it safe to use 
+
+
+tax software was suspected of being responsible for a major breach across Europe. I belie the attack to be xss, malicious software was incorporated to the auto update feature of a leading  software company .
+This attack has affected many different types of company . To me it is reminiscent of the I love you virus as it uses an accepted type to infiltrate the systems. As 80% of all affected systems were 
+based in the Ukraine  with the second highest being 9 % in Germany it might be political in nature. This attack caused damage to many company's including maersk a shipping company has run in to delays and tnt 
+has had to use manual input for much of the data. Marcus hutchins was responsible for helping to end the threat. This attack came through the update ports of MEDoc . This is a worm style of attack it uses 
+eternal blue hack as well this is a interesting example of Cyber hacking as it uses a variety of attacks to spread and access data at the time of the post there was no mention of who found the attack just that 
+it was discovered and that a patch and a anti virus was devolved if the virus had not had acess to the systems it would not have been able to hijack the systems for update I can only assume that the attackers used 
+fake email to get access to the systems for update if they were able to copy the update code would be very hard to git rid of but I think they used a worm to get in to the update file I would think that 
+it might require the file type or a lot of time to infiltrate to right file 
+
+
+
+
